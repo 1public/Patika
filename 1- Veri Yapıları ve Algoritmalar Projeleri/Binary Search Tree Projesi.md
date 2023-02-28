@@ -5,11 +5,11 @@
 > Binary Search Tree: Bir düğüm her iki tarafa da referans verebiliyor. Sağ ve sol olarak. Sağ tarafından kendinden büyük elemanlar, sol tarafında ise kendinden küçük elemanlar bulunacak.
 
 
-            7
+              7
             /   \
-         5     8 
+           5     8 
          /   \     \
-      1       6       9
+        1     6     9
       /   \
      0     3
          /   \         
