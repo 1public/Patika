@@ -17,6 +17,6 @@
 
 Root(kök) 7’dir
 
-Rootun sağı -> [8, 9]
+Root'un sağı -> [8, 9]
 
-Rootun solu -> [0, 1, 2, 3, 4, 5, 6]
+Root'un solu -> [0, 1, 2, 3, 4, 5, 6]
