@@ -1,5 +1,5 @@
 - //
-- /*...*/
+- /* ... */
 - /**...*/
 
 /** ve */ işaretleri arasına yazılan açıklamalar bir takım özel etiketler içerebilir. Kod içi belgeleme, bu etiketleri tanıyan ve etiketlerden faydalanarak belge üreten bir aracın yardımı ile belgeye dönüştürülebilmektedir.
